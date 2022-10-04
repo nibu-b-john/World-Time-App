@@ -18,7 +18,7 @@ Get to know the time around the world using this app.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/nibu-b-john/World-Time-App.git
 ```
 
 Go to the project directory
